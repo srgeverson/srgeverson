@@ -18,3 +18,10 @@
         <img height="180em" src="https://github.com/srgeverson" />
         <img height="180em" src="https://github.com/srgeverson" />
 </div>
+
+                                                               
+                                                               <div align="center">
+        <a href="https://github.com/srgeverson
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgeverson&layout=compact&langs_count=7&theme=dark" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgeverson&layout=compact&langs_count=7&theme=dark" />
+</div>
