@@ -1,4 +1,4 @@
-## Geverson Souza e as tecnologias de estudo e trabalho envolvida até o momento!
+## Tecnologias de estudo e trabalho envolvida até o momento!
 <div align="center">
   <a href="https://github.com/srgeverson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srgeverson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
